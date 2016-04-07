@@ -1,0 +1,24 @@
+ul, li{
+    text-decoration-line: none;
+    display: inline;
+    color: aliceblue
+}
+#home{
+    background-color: #A7A5A8;
+    height: 100%
+}
+.logo{
+
+    margin-top: 0px;
+    padding-top: 0px;
+}
+#content{
+    text-align: center;
+} #content h1{
+    font-size: 38px;
+    padding: 11px;
+    color: blanchedalmond;
+    font-weight: 400;
+    padding-left: 10px;
+    padding-right: 10px;
+}
