@@ -4,7 +4,7 @@ ul, li{
     color: aliceblue
 }
 #home{
-    background-color: #A7A5A8;
+    background-color: #494242;
     height: 100%
 }
 .logo{
@@ -21,4 +21,8 @@ ul, li{
     font-weight: 400;
     padding-left: 10px;
     padding-right: 10px;
+}
+#content p{
+     color: blanchedalmond;
+
 }
